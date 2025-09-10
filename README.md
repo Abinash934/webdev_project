@@ -3,19 +3,14 @@
 # Weather Application
 One of the basic and core project for learning development. This is a beginner friendly project to learn the basics of HTML5, CSS3, and Javascript.
 
-This is a link to the live web app - https://shouryasrivastava01.github.io/weather-application/
 
-## Tech Stack
 ### Frontend:
 * HTML 
 * CSS
 * Javascript
 
 
-### Learning the Tech Stack 
-1. HTML: https://www.w3schools.com/html/
-2. CSS: https://www.w3schools.com/css/
-4. JAVASCRIPT: https://www.w3schools.com/js/
+
 
 ## Component
 
